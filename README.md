@@ -1,12 +1,12 @@
 # 📅 Advent of Code 2024
 
-This repository contains my solutions for the Code Advent Calendar 2024 challenges. It serves as a personal record of my progress and solutions
+This repository contains my solutions for the Advent of Code 2024 challenges. It serves as a personal record of my progress and solutions
 
 You can read more about it [here](https://fulgidus.github.io/posts/advent-2024/)
 
 ## 📖 About
 
-The Code Advent Calendar is a series of daily programming challenges that take place in December. Each day, a new challenge is released, and participants are encouraged to solve it using their preferred programming language.
+The Advent of Code is a series of daily programming challenges that take place in December. Each day, a new challenge is released, and participants are encouraged to solve it using their preferred programming language.
 
 ## 🎯 Purpose
 
