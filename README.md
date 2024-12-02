@@ -1,4 +1,4 @@
-# Code Advent Calendar 2024
+# 📅 Advent of Code 2024
 
 This repository contains my solutions for the Code Advent Calendar 2024 challenges. It serves as a personal record of my progress and solutions
 
