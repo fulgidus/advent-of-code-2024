@@ -21,10 +21,16 @@ I highly recommend attempting to solve the challenges on your own before referri
 The repository is organized by day, with each day's challenge having its own Python file and corresponding input file. For example:
 
 ```
+all_test.py
+
+day1_test.py
 day1.py
 day1.txt
+
+day2_test.py
 day2.py
 day2.txt
+
 ...
 ```
 
