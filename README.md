@@ -33,7 +33,19 @@ day2.txt
 To run a specific day's solution, simply execute the corresponding Python file. For example, to run the solution for day 1:
 
 ```sh
-python day1.py
+python3 day1.py
+```
+
+## 🧪 Testing
+
+Per eseguire i test, utilizza il modulo `unittest` di Python. Puoi eseguire tutti i test con il seguente comando:
+```sh
+python3 -m unittest all_test.py
+```
+Oppure puoi eseguire un singolo file di test specifico:
+
+```sh
+python3 -m unittest day1_test.py
 ```
 
 ## 🤝 Contributing
